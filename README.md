@@ -4,4 +4,4 @@ This code builds on the code provided by the [ACF documentation](https://www.adv
 
 Example of code in action can be found on Codepen [View Pen](https://codepen.io/aj372/pen/MvKgvz)
 
-I also wrote a Medium Post about editing the script and go through in detail about all the changes made.
+I also wrote a [Medium Post](https://medium.com/@hurricane.interactive/acf-multiple-map-markers-with-toggleable-infowindow-popups-efb296d0f529) about editing the script and go through in detail about all the changes made.
